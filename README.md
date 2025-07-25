@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{kmgyu}"/>
+</a>
 
 I'm currently attending on Mokpo National University.
 Studying Algorithms and Web developing.
